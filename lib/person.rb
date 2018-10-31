@@ -2,4 +2,5 @@ class Person
   def name
     @name
   end
-  def 
+  def name=new_name
+    
